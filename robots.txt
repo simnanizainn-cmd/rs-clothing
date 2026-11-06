@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simnanizainn-cmd.github.io/rs-clothing/sitemap.xml
